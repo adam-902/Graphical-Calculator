@@ -35,7 +35,6 @@ link_directories(${GTK4_LIBRARY_DIRS})
 add_definitions(${GTK4_CFLAGS_OTHER})
 
 add_executable(Calculator main.c)
-# set_target_properties(TutorialApp PROPERTIES WIN32_EXECUTABLE true) 
 target_link_libraries(Calculator ${GTK4_LIBRARIES})
 
 
