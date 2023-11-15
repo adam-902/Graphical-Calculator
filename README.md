@@ -2,7 +2,7 @@
 Graphical Calculator capable of performing basic arithmetic, basic trigonometric operations as well as plotting graphs
 
 
-**REQUIREMENTS**:\n
+**REQUIREMENTS**:
 GTK TOOLKIT
 GNUPLOT
 CMake
